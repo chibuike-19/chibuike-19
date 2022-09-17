@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Obiechina Emmanuel 😊🚀
 
-- 💼 I’m currently working as a Front end developer Intern at NITDA Unilag
+- 💼 I’m currently working as a Front end developer Intern at NITDA Unilag.
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Open source projects
 - 📫 How to reach me: Drop a mail to emmanuelobiechina8@gmail.com
