@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Open source projects
 - 📫 How to reach me: Drop a mail to emmanuelobiechina8@gmail.com
-- ⚡ Checkout my portfolio: [My_portfolio](https://www.my-portfolio.netlify.app)
+<!-- - ⚡ Checkout my portfolio: [My_portfolio](https://www.my-portfolio.netlify.app) -->
 <!--
 **chibuike-19/chibuike-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
