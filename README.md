@@ -23,11 +23,11 @@ Here are some ideas to get you started
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5248](https://github.com/EddieHubCommunity/support/issues/5248) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
-3. 💪 Opened PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
-4. 🎉 Merged PR [#1](https://github.com/tobySolutions/algora-hackathon/pull/1) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
-5. 💪 Opened PR [#1](https://github.com/tobySolutions/algora-hackathon/pull/1) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
+1. 💪 Opened PR [#1790](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1790) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#5248](https://github.com/EddieHubCommunity/support/issues/5248) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
+4. 💪 Opened PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
+5. 🎉 Merged PR [#1](https://github.com/tobySolutions/algora-hackathon/pull/1) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
 <!--END_SECTION:activity-->
 
 
