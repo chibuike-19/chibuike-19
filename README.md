@@ -27,9 +27,9 @@ Here are some ideas to get you started
 4. 🎉 Merged PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
 5. 💪 Opened PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
 <!--END_SECTION:activity-->
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
+[![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)-->
 
 
 
