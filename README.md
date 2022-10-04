@@ -22,11 +22,11 @@ Here are some ideas to get you started
 -->
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1800](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1800) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#1790](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1790) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❗️ Opened issue [#5248](https://github.com/EddieHubCommunity/support/issues/5248) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
-5. 💪 Opened PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
+1. 🗣 Commented on [#18](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/issues/18) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
+2. 💪 Opened PR [#1800](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1800) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 💪 Opened PR [#1790](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1790) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#5248](https://github.com/EddieHubCommunity/support/issues/5248) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#2](https://github.com/tobySolutions/algora-hackathon/pull/2) in [tobySolutions/algora-hackathon](https://github.com/tobySolutions/algora-hackathon)
 <!--END_SECTION:activity-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
