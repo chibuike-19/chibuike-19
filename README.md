@@ -22,11 +22,11 @@ Here are some ideas to get you started
 -->
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/196) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
-2. ❗️ Opened issue [#194](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/issues/194) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
-3. ❌ Closed PR [#151](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/151) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
-4. 💪 Opened PR [#151](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/151) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
-5. 🗣 Commented on [#76](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/issues/76) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
+1. 🗣 Commented on [#2742](https://github.com/provectus/kafka-ui/issues/2742) in [provectus/kafka-ui](https://github.com/provectus/kafka-ui)
+2. 💪 Opened PR [#196](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/196) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
+3. ❗️ Opened issue [#194](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/issues/194) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
+4. ❌ Closed PR [#151](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/151) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
+5. 💪 Opened PR [#151](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022/pull/151) in [Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022)
 <!--END_SECTION:activity-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
