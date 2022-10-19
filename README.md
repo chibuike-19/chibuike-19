@@ -22,11 +22,11 @@ Here are some ideas to get you started
 -->
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/jsvigneshkanna/tailwind_ui_components/pull/71) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
-2. 🗣 Commented on [#33](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/33) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
+1. 🗣 Commented on [#71](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/71) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
+2. 💪 Opened PR [#71](https://github.com/jsvigneshkanna/tailwind_ui_components/pull/71) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
 3. 🗣 Commented on [#33](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/33) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
-4. ❗️ Opened issue [#33](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/33) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
-5. 🗣 Commented on [#2742](https://github.com/provectus/kafka-ui/issues/2742) in [provectus/kafka-ui](https://github.com/provectus/kafka-ui)
+4. 🗣 Commented on [#33](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/33) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
+5. ❗️ Opened issue [#33](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/33) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
 <!--END_SECTION:activity-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
