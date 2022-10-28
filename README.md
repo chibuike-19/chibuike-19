@@ -2,7 +2,7 @@
 # I'm Obiechina Emmanuel 😊🚀
 
 - 💼 I’m currently working as a Software Developer Intern at NITDA Unilag.
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Open source projects
 - 📫 How to reach me: Drop a mail to emmanuelobiechina8@gmail.com
 <!-- - ⚡ Checkout my portfolio: [My_portfolio](https://www.my-portfolio.netlify.app) -->
