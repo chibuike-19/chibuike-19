@@ -1,10 +1,12 @@
 ### Hi there 👋
 # I'm Obiechina Emmanuel 😊🚀
-
+# And I'm Interested in...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
+<!-- 
 - 💼 I’m currently working as a Software Developer Intern at NITDA Unilag.
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Open source projects
-- 📫 How to reach me: Drop a mail to emmanuelobiechina8@gmail.com
+- 📫 How to reach me: Drop a mail to emmanuelobiechina8@gmail.com -->
 <!-- - ⚡ Checkout my portfolio: [My_portfolio](https://www.my-portfolio.netlify.app) -->
 <!--
 **chibuike-19/chibuike-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
