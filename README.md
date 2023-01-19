@@ -24,11 +24,11 @@ Here are some ideas to get you started
 -->
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Nithub-Unilag/DSA-Bootcamp/pull/5) in [Nithub-Unilag/DSA-Bootcamp](https://github.com/Nithub-Unilag/DSA-Bootcamp)
-2. 🗣 Commented on [#3130](https://github.com/EddieHubCommunity/LinkFree/issues/3130) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#3130](https://github.com/EddieHubCommunity/LinkFree/pull/3130) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#1](https://github.com/chibuike-19/LinkFree/pull/1) in [chibuike-19/LinkFree](https://github.com/chibuike-19/LinkFree)
-5. 💪 Opened PR [#1](https://github.com/chibuike-19/LinkFree/pull/1) in [chibuike-19/LinkFree](https://github.com/chibuike-19/LinkFree)
+1. 💪 Opened PR [#216](https://github.com/Njong392/Abbreve/pull/216) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
+2. ❗️ Opened issue [#215](https://github.com/Njong392/Abbreve/issues/215) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
+3. 💪 Opened PR [#5](https://github.com/Nithub-Unilag/DSA-Bootcamp/pull/5) in [Nithub-Unilag/DSA-Bootcamp](https://github.com/Nithub-Unilag/DSA-Bootcamp)
+4. 🗣 Commented on [#3130](https://github.com/EddieHubCommunity/LinkFree/issues/3130) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#3130](https://github.com/EddieHubCommunity/LinkFree/pull/3130) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
