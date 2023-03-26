@@ -24,11 +24,11 @@ Here are some ideas to get you started
 -->
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuike-19&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/chordzz/NithubDSA-Pod4/pull/20) in [chordzz/NithubDSA-Pod4](https://github.com/chordzz/NithubDSA-Pod4)
-2. 💪 Opened PR [#20](https://github.com/chordzz/NithubDSA-Pod4/pull/20) in [chordzz/NithubDSA-Pod4](https://github.com/chordzz/NithubDSA-Pod4)
-3. 💪 Opened PR [#5](https://github.com/MicrosoftADC-West/SkillChallenge-Cab-Finder/pull/5) in [MicrosoftADC-West/SkillChallenge-Cab-Finder](https://github.com/MicrosoftADC-West/SkillChallenge-Cab-Finder)
-4. 🗣 Commented on [#216](https://github.com/Njong392/Abbreve/issues/216) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
-5. 💪 Opened PR [#13](https://github.com/Nithub-Unilag/DSA-Bootcamp/pull/13) in [Nithub-Unilag/DSA-Bootcamp](https://github.com/Nithub-Unilag/DSA-Bootcamp)
+1. 💪 Opened PR [#23](https://github.com/chordzz/NithubDSA-Pod4/pull/23) in [chordzz/NithubDSA-Pod4](https://github.com/chordzz/NithubDSA-Pod4)
+2. 🎉 Merged PR [#20](https://github.com/chordzz/NithubDSA-Pod4/pull/20) in [chordzz/NithubDSA-Pod4](https://github.com/chordzz/NithubDSA-Pod4)
+3. 💪 Opened PR [#20](https://github.com/chordzz/NithubDSA-Pod4/pull/20) in [chordzz/NithubDSA-Pod4](https://github.com/chordzz/NithubDSA-Pod4)
+4. 💪 Opened PR [#5](https://github.com/MicrosoftADC-West/SkillChallenge-Cab-Finder/pull/5) in [MicrosoftADC-West/SkillChallenge-Cab-Finder](https://github.com/MicrosoftADC-West/SkillChallenge-Cab-Finder)
+5. 🗣 Commented on [#216](https://github.com/Njong392/Abbreve/issues/216) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
 <!--END_SECTION:activity-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuike-19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 [![@official__ceo's Holopin board](https://holopin.io/api/user/board?user=official__ceo)](https://holopin.io/@official__ceo)
