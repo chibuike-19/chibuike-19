@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Obiechina Emmanuel 😊🚀
-# And I'm Interested in..
+# And I'm Interested in...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=DevOps;Technical+Writing;Teaching+kids+tech)](https://git.io/typing-svg)
 <!-- 
 - 💼 I’m currently working as a Software Developer Intern at NITDA Unilag.
